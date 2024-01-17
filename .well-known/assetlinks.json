@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.akash0511.deeplinkingpoc",
+      "sha256_cert_fingerprints":
+        ["21:F3:F2:76:C3:45:74:7E:80:D6:4F:03:23:59:B1:FB:CB:3B:0F:C0:F5:11:53:4D:8D:99:A4:45:19:99:0E:E6"]
+    }
+  }
+]
